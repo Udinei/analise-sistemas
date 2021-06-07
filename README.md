@@ -35,4 +35,7 @@ Modelo de domínio: é um modelo que descreve
 |Conceitual ou de
 Análise (de sistema) | Analista de sistemas | Descrever as entidades do domínio (do sistema) e suas inter-relações: •Independentemente de PARADIGMA E TECNOLOGIA |
 | Lógico ou de Design  | Projetista | Descrever as entidades do domínio (do sistema) e suas inter-relações: • Preso a um PARADIGMA (ex: relacional, orientado a objetos) • Independentemente de TECNOLOGIA  |
-
+| Físico ou de
+implementação | Implementador | Descrever as entidades do domínio (do sistema) e suas inter-relações:
+• Preso a um PARADIGMA (ex: relacional, orientado a objetos)
+• Preso a uma TECNOLOGIA (ex: Java, C#, PHP, Python, Ruby, NodeJS) |
