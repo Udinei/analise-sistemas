@@ -21,7 +21,7 @@ Projeto para Anotações sobre analise de sistemas
 - Elaboration
 - Construction 
 - Transition
-- 
+
 
 # Modelo de domínio
 Domíno: É a área de negócio observada
