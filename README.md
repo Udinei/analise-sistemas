@@ -25,10 +25,12 @@ Projeto para Anotações sobre analise de sistemas
 
 # Modelo de domínio
 Domíno: É a área de negócio observada
+
 Modelo de domínio: é um modelo que descreve
 • As entidades do domínio
 • As inter-relações entre elas
 
+### Níveis de Abstração do modelo de domínio 
 | Nível  | Responsável  | Objetivo   | 
 |---	   |---         	|---         |
 |Conceitual ou de Análise (de negócio) |Analista de negócio | Descrever as entidades do domínio (do negócio) e suas inter-relações: Independentemente de SISTEMA |
