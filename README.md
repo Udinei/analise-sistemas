@@ -39,3 +39,15 @@ Análise (de sistema) | Analista de sistemas | Descrever as entidades do domíni
 | Lógico ou de Design  | Projetista | Descrever as entidades do domínio (do sistema) e suas inter-relações: • Preso a um PARADIGMA (ex: relacional, orientado a objetos) • Independentemente de TECNOLOGIA  |
 | Físico ou de
 implementação | Implementador | Descrever as entidades do domínio (do sistema) e suas inter-relações:• Preso a um PARADIGMA (ex: relacional, orientado a objetos) • Preso a uma TECNOLOGIA (ex: Java, C#, PHP, Python, Ruby, NodeJS) |
+
+
+## Modelo Conceitual
+<b>Definição 1:</b> É um modelo que descreve a estrutura das informações que o sistema vai gerenciar (Wazlwick)
+<b>Definição 2:</b> é O Modelo de dominío em nível de Análise
+- Pertence ao escop-o do problema e ão ao escopo da solução
+- Independente de paradigma
+- Independente de tecnologia
+
+
+
+
