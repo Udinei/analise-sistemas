@@ -24,8 +24,13 @@ Modelo de domínio (Nível Conceitual de análise)
 
 Modelo de domínio (Nível Lógico)
 - Preso ao paradigma Relacional
+- Forma Textual  
+![](/modelo-logico-nivel-relacional-textual.png)  
+
+- Forma Gráfica  
+![](/modelo-logico-nivel-relacional-grafico.png) 
  
-- Preso ao paradigma Orientado a Objetos
+- Preso ao paradigma Orientado a Objetos  
 ![](/modelo-uml-nivel-logico.png)  
 
 
