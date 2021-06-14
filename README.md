@@ -5,13 +5,13 @@ Projeto para Anotações sobre analise de sistemas
 Domínio: A área de negócio observada
 Ex: Padaria, Escola, Farmacia, Hospital etc..  
 
-Dominio: Loja Móveis Angular  
+Domínio: Loja Móveis Angular (Registro de pedidos)  
 ![](/dominio_nota_fiscal.png)  
 
-Modelo de domínio (Nivel de negócio)
+Modelo de domínio (Nivel Conceitual de negócio)
 ![](/modelo_dominio_nivel_negocio.png)  
 
-Modelo de domínio (Nível de análise)
+Modelo de domínio (Nível Lógico)
 ![](/modelo_dominio_analise.png)  
 
 
@@ -47,6 +47,7 @@ Modelo de domínio: Modelo que descreve
 • E as inter-relações entre essas entidades
 
 ### Níveis de Abstração do modelo de domínio 
+Quanto mais alto for o nível de abstração menos detalhes do sistema serão exibidos.
 
 | Nível  | Responsável  | Objetivo   | 
 |---	   |---         	|---         |
