@@ -5,11 +5,15 @@ Projeto para Anotações sobre analise de sistemas
 Domínio: A área de negócio observada
 Ex: Padaria, Escola, Farmacia, Hospital etc..
 
-Móveis Angular
+Dominio: Loja Móveis Angular 
 
-Modelo de domínio
 
-Modelo de domínio 
+Modelo de domínio (Nivel de negócio)
+![](/modelo_dominio_nivel_negocio.png)
+
+Modelo de domínio (Nível de análise)
+![](/modelo_dominio_analise.png)
+
 
 ## Disciplinas (Variação do RUP)
 - Bussines modelling* 
