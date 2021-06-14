@@ -34,10 +34,14 @@ Domínio: Loja Móveis Angular (Registro de pedidos)
   Pode ser implementado em qualquer linguagem  
 ![](/modelo-uml-nivel-logico.png)  
 
-### Nível Físico ou de Implementação
-- Preso ao paradigma Relacional
-- Preso a tecnologia (ex: Mysql - dialeto SQL)
- 
+### Nível Físico ou de Implementação  
+- Preso ao paradigma Relacional - BD  
+- Preso a tecnologia (ex: Mysql - dialeto SQL)  
+![](/modelo-dominio-nivel-fisico-msql.png)
+
+- Preso ao paradigma Orientado a Objetos - Classes  
+- Preso a tecnologia (ex: Java - OO)  
+ ![](/impl-classes-dominio-java.png)
 
 
 ## Disciplinas (Variação do RUP)
