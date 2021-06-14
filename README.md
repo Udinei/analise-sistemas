@@ -26,7 +26,7 @@ Modelo de domínio (Nível Lógico)
 - Preso ao paradigma Relacional
  
 - Preso ao paradigma Orientado a Objetos
-![](/modelo_dominio_analise.png)  
+![](/modelo-uml-nivel-logico.png)  
 
 
 ## Disciplinas (Variação do RUP)
