@@ -2,6 +2,14 @@
 Projeto para Anotações sobre analise de sistemas
 
 # Modelagem de dominio e modelagem conceitual
+Domínio: A área de negócio observada
+Ex: Padaria, Escola, Farmacia, Hospital etc..
+
+Móveis Angular
+
+Modelo de domínio
+
+Modelo de domínio 
 
 ## Disciplinas (Variação do RUP)
 - Bussines modelling* 
@@ -18,9 +26,13 @@ Projeto para Anotações sobre analise de sistemas
 
 ## Fases
 - Incepiton 
+  - Levantamento de informações do negócio    
 - Elaboration
+  - Arquitetura e principais decisões  
 - Construction 
+  - Desenvolvimento e testes  
 - Transition
+  - Implantação  
 
 
 # Modelo de domínio
@@ -72,7 +84,7 @@ Para representar o Modelo Conceitural vamos utilizar a ferramenta
   "- codPedido : Integer"
   
 - atributo identificador 
-    " - << >>" esteriotipo com a palavra "oid' no seu interior, como na imagem
+    " - << >>" simbolo de esteriótipo com a palavra "oid' no seu interior, como na imagem
  
 - Valor inicial 
    "- desconto : Double = 0"
