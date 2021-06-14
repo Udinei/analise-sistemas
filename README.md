@@ -26,11 +26,12 @@ Projeto para Anotações sobre analise de sistemas
 # Modelo de domínio
 Domíno: É a área de negócio observada
 
-Modelo de domínio: é um modelo que descreve
+Modelo de domínio: Modelo que descreve 
 • As entidades do domínio
-• As inter-relações entre elas
+• E as inter-relações entre essas entidades
 
 ### Níveis de Abstração do modelo de domínio 
+
 | Nível  | Responsável  | Objetivo   | 
 |---	   |---         	|---         |
 |Conceitual ou de Análise (de negócio) |Analista de negócio | Descrever as entidades do domínio (do negócio) e suas inter-relações: Independentemente de SISTEMA |
@@ -42,30 +43,36 @@ implementação | Implementador | Descrever as entidades do domínio (do sistema
 
 
 ## Modelo Conceitual
+O modelo conceitual descreve:
+- Conceitos
+- Atributos
+- Associações
+
 <b>Definição 1:</b> Modelo que descreve a estrutura das informações que o sistema vai gerenciar (Wazlwick)
 <b>Definição 2:</b> Modelo de dominío em nível de Análise
 - Pertence ao escopo do problema e não do escopo da solução
+- Independente de paradigma
 - Independente de tecnologia
  
 ## Conceitos
-- Algo que tenha significado pra o negócio e necessidade de armazenamento
-- unidade coesa do negócio
+- Algo que tenha significado para o negócio e necessidade de armazenamento
+- Unidade coesa do negócio
 
 ## Atributos
 - Informações alfanuméricas simples
-- não pode  multivalorado(1FN)
-- não pode ser composto(1FN)
+- Não pode  multivalorado(1FN)
+- Não pode ser composto(1FN)
 
-## Representaçãp de conceitos e atributos com diagrama de classes da UML
+## Representação UML de conceitos e atributos
+Para representar o Modelo Conceitural vamos utilizar a ferramenta
+- Diagrama de classes da UML
+  
 ![](/representacao_conceitos_UML.png)
 - nome : tipo 
 - atributo identificador
 - Valor inicial
 - Atributo derivado
-
-
-
 - Independente de paradigma
-- 
+ 
 
 
