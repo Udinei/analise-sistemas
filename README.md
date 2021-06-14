@@ -31,7 +31,13 @@ Domínio: Loja Móveis Angular (Registro de pedidos)
 ![](/modelo-logico-nivel-relacional-grafico.png) 
  
 - Preso ao paradigma Orientado a Objetos  
+  Pode ser implementado em qualquer linguagem  
 ![](/modelo-uml-nivel-logico.png)  
+
+### Nível Físico ou de Implementação
+- Preso ao paradigma Relacional
+- Preso a tecnologia (ex: Mysql - dialeto SQL)
+ 
 
 
 ## Disciplinas (Variação do RUP)
