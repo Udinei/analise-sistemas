@@ -8,21 +8,21 @@ Ex: Padaria, Escola, Farmacia, Hospital etc..
 Domínio: Loja Móveis Angular (Registro de pedidos)  
 ![](/dominio_nota_fiscal.png)  
 
-Modelo de domínio (Nível Conceitual de negócio)  
+### Modelo de domínio (Nível Conceitual de negócio)  
+- Independente de paradigma  
 - Pode incluir entidades que não são de interesse do sistema  
 ![](/modelo_dominio_nivel_negocio.png)  
 
-Modelo de domínio (Nível Conceitual de análise)  
+### Modelo de domínio (Nível Conceitual de análise)  
 - Independente de paradigma  
 
 <b>Ferramenta - Entidade Relacionamento</b>  
 ![](/nivel_conceitual_de_analise_ferr_entidade_rel_peter_chain.png)  
 
-
 <b>Ferramenta - Diagrama de classes da UML</b>  
 ![](/nivel_conceitual_de_analise.png)  
 
-Modelo de domínio (Nível Lógico)
+### Modelo de domínio (Nível Lógico)
 - Preso ao paradigma Relacional
 - Forma Textual  
 ![](/modelo-logico-nivel-relacional-textual.png)  
