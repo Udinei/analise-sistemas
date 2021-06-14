@@ -1,18 +1,18 @@
 # analise-sistemas
-Projeto para Anotações sobre analise de sistemas
+Projeto para Anotações sobre analise de sistemas  
 
 # Modelagem de dominio e modelagem conceitual
 Domínio: A área de negócio observada
-Ex: Padaria, Escola, Farmacia, Hospital etc..
+Ex: Padaria, Escola, Farmacia, Hospital etc..  
 
 Dominio: Loja Móveis Angular 
-![](/dominio_nota_fiscal.png)
+![](/dominio_nota_fiscal.png)  
 
 Modelo de domínio (Nivel de negócio)
-![](/modelo_dominio_nivel_negocio.png)
+![](/modelo_dominio_nivel_negocio.png)  
 
 Modelo de domínio (Nível de análise)
-![](/modelo_dominio_analise.png)
+![](/modelo_dominio_analise.png)  
 
 
 ## Disciplinas (Variação do RUP)
