@@ -6,7 +6,7 @@ Domínio: A área de negócio observada
 Ex: Padaria, Escola, Farmacia, Hospital etc..
 
 Dominio: Loja Móveis Angular 
-
+![](/dominio_nota_fiscal.png)
 
 Modelo de domínio (Nivel de negócio)
 ![](/modelo_dominio_nivel_negocio.png)
