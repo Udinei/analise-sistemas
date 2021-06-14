@@ -42,12 +42,29 @@ implementação | Implementador | Descrever as entidades do domínio (do sistema
 
 
 ## Modelo Conceitual
-<b>Definição 1:</b> É um modelo que descreve a estrutura das informações que o sistema vai gerenciar (Wazlwick)
-<b>Definição 2:</b> é O Modelo de dominío em nível de Análise
-- Pertence ao escop-o do problema e ão ao escopo da solução
-- Independente de paradigma
+<b>Definição 1:</b> Modelo que descreve a estrutura das informações que o sistema vai gerenciar (Wazlwick)
+<b>Definição 2:</b> Modelo de dominío em nível de Análise
+- Pertence ao escopo do problema e não do escopo da solução
 - Independente de tecnologia
+ 
+## Conceitos
+- Algo que tenha significado pra o negócio e necessidade de armazenamento
+- unidade coesa do negócio
+
+## Atributos
+- Informações alfanuméricas simples
+- não pode  multivalorado(1FN)
+- não pode ser composto(1FN)
+
+## Representaçãp de conceitos e atributos com diagrama de classes da UML
+- nome : tipo 
+- atributo identificador
+- Valor inicial
+- Atributo derivado
 
 
+
+- Independente de paradigma
+- 
 
 
