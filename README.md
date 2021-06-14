@@ -69,16 +69,16 @@ Para representar o Modelo Conceitural vamos utilizar a ferramenta
   
 ![](/representacao_conceitos_UML.png)
 - nome : tipo 
-  - "codPedido : Integer"
+  "- codPedido : Integer"
   
 - atributo identificador 
-   - "<<oid>>"
+    " - <<<oid>>>"
  
 - Valor inicial 
-   - "desconto : Double = 0"
+   "- desconto : Double = 0"
  
 - Atributo derivado
-   - "/ valorLiquido : Double = valorBruto - desconto"
+   "- / valorLiquido : Double = valorBruto - desconto"
 
  
 
