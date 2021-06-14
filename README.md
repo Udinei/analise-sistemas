@@ -126,6 +126,8 @@ Para representar o Modelo Conceitural vamos utilizar a ferramenta
 - Atributo derivado
    "- / valorLiquido : Double = valorBruto - desconto"
 
- 
+ ## Polêmica sobre análise e Design
+ <b>Análise:<\b> Descrever o PROBLEMA (Independente de paradigma e tecnologia)
+ <b>Desing:<\b> Descrever a SOLUÇÃO (Preso ao paradigma)
 
 
