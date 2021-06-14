@@ -130,4 +130,16 @@ Para representar o Modelo Conceitural vamos utilizar a ferramenta
  <b>Análise:<\b> Descrever o PROBLEMA (Independente de paradigma e tecnologia)
  <b>Desing:<\b> Descrever a SOLUÇÃO (Preso ao paradigma)
 
-
+  <b>No paradigma estruturaedo/relacional tinha que definir<\b>    
+  - Chave estrangeiras
+  - Criação de tabela
+  - Normalização
+  - Outro...  
+  
+  <\b>No paradigma OO usando UML<\b>
+   - O modelo conceitual de análise é praticamente o modelo de design
+     diferenciando somente a inclusão de metodos no modelo de design 
+      O modelagem conceitual em nivel de analise na OO, "invade" alguns aspectos de Design(normalização, tipos de dados, direção de associações, 
+      etc...) por isso a polêmica das disciplinas estarem juntas na definição do processo unificado. 
+      
+     Conclusão: Análise e desingn tendem a ser mais próximas no desenvolvimento OO.
