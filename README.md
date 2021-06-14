@@ -72,7 +72,7 @@ Para representar o Modelo Conceitural vamos utilizar a ferramenta
   "- codPedido : Integer"
   
 - atributo identificador 
-    " - <<<oid>>>"
+    " - << >>" esteriotipo com a palavra "oid' no seu interior, como na imagem
  
 - Valor inicial 
    "- desconto : Double = 0"
