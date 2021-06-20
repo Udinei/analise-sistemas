@@ -2,20 +2,20 @@
 Projeto para Anotações sobre analise de sistemas  
 
 # Modelagem de dominio e Modelagem conceitual
-<b>Domínio:<\b> A área de negócio observada  
+*** Domínio: *** A área de negócio observada  
 Ex: Padaria, Escola, Farmacia, Hospital etc..  
 
 ### Possui quatro níveis de abstração 
  
-- Negócio - Analista de negócio - Descreve entidade do domínio <b> do negócio <\b> e suas inter-relações - Independente de Sistema  
+- *** Negócio ***  - Analista de negócio - Descreve entidade do domínio *** do negócio *** e suas inter-relações - Independente de Sistema  
  
-- Sistema - Analista de Sistema - Descreve entidade do domínio <b>do sistema<\b> e suas inter-relações - Independente de Paradigma e tecnologia  
+- *** Sistema ***  - Analista de Sistema - Descreve entidade do domínio *** do sistema *** e suas inter-relações - Independente de Paradigma e tecnologia  
  
-- Lógico - Projetista - Descreve entidade  do domínio <b>do sistema<\b> e suas inter-relações - Preso ao Paradigma e tecnologia (Relacional, OO) - Independente de tecnologia  
+- *** Lógico ***  - Projetista - Descreve entidade  do domínio *** do sistema *** e suas inter-relações - Preso ao Paradigma e tecnologia (Relacional, OO) - Independente de tecnologia  
  
-- Físico - Implementador - Descreve entidade  do domínio <b>do sistema<\b> e suas inter-relações - Preso ao Paradigma (Relacional, OO) - Preso a tecnologia (Java, C#, PHP, etc..)  
+- *** Físico *** - Implementador - Descreve entidade  do domínio *** do sistema *** e suas inter-relações - Preso ao Paradigma (Relacional, OO) - Preso a tecnologia (Java, C#, PHP, etc..)  
  
-Domínio: Loja Móveis Angular (Registro de pedidos)  
+*** Domínio: *** Nota Fiscal (Registros do Pedido)  
 ![](/dominio_nota_fiscal.png)  
 
 ### Modelo de domínio (Nível Conceitual de negócio)  
