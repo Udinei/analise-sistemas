@@ -11,7 +11,7 @@ Ex: Padaria, Escola, Farmacia, Hospital etc..
   **Independente de Sistema**  
  
 - **Sistema**  - Analista de Sistema - Descreve entidade do domínio **do sistema** e suas inter-relações
-  **Independente de Paradigma e tecnologia  **
+  **Independente de Paradigma e tecnologia**
  
 - **Lógico**  - Projetista - Descreve entidade  do domínio **do sistema** e suas inter-relações 
   **Preso ao Paradigma e tecnologia (Relacional, OO) - Independente de tecnologia**  
