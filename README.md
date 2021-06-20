@@ -8,16 +8,16 @@ Ex: Padaria, Escola, Farmacia, Hospital etc..
 ### Possui quatro níveis de abstração 
  
 - **Negócio**  - Analista de negócio - Descreve entidade do domínio **do negócio** e suas inter-relações
- - **Independente de Sistema**  
+  **Independente de Sistema**  
  
 - **Sistema**  - Analista de Sistema - Descreve entidade do domínio **do sistema** e suas inter-relações
- - **Independente de Paradigma e tecnologia  **
+  **Independente de Paradigma e tecnologia  **
  
 - **Lógico**  - Projetista - Descreve entidade  do domínio **do sistema** e suas inter-relações 
- - **Preso ao Paradigma e tecnologia (Relacional, OO) - Independente de tecnologia**  
+  **Preso ao Paradigma e tecnologia (Relacional, OO) - Independente de tecnologia**  
  
 - **Físico** - Implementador - Descreve entidade  do domínio **do sistema** e suas inter-relações 
- - **Preso ao Paradigma (Relacional, OO) - Preso a tecnologia (Java, C#, PHP, etc..)**  
+  **Preso ao Paradigma (Relacional, OO) - Preso a tecnologia (Java, C#, PHP, etc..)**  
  
 **Domínio:** Nota Fiscal (Registros do Pedido)  
 ![](/dominio_nota_fiscal.png)  
