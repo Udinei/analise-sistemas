@@ -2,12 +2,12 @@
 Projeto para Anotações sobre analise de sistemas  
 
 # Modelagem de dominio e Modelagem conceitual
-Domínio: A área de negócio observada  
+<b>Domínio:<\b> A área de negócio observada  
 Ex: Padaria, Escola, Farmacia, Hospital etc..  
 
 ### Possui quatro níveis de abstração 
  
-- Negócio - Analista de negócio - Descreve entidade do domínio <b>do negócio<\b> e suas inter-relações - Independente de Sistema  
+- Negócio - Analista de negócio - Descreve entidade do domínio <b> do negócio <\b> e suas inter-relações - Independente de Sistema  
  
 - Sistema - Analista de Sistema - Descreve entidade do domínio <b>do sistema<\b> e suas inter-relações - Independente de Paradigma e tecnologia  
  
