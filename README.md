@@ -1,17 +1,19 @@
 # analise-sistemas
-Projeto para Anotações sobre analise de sistemas  
+Projeto para Anotações sobre analise de sistemas focado na Modelagem de dominio e Modelagem conceitual  
 
 # Modelagem de dominio e Modelagem conceitual
-**Domínio:** A área de negócio observada  
+**Domínio:** É a área de negócio observada  
 Ex: Padaria, Escola, Farmacia, Hospital etc..  
 
+**Modelo de domínio**: É a notação gráfica ou textual que descreve as entidades do domínio e as inter-relações entre elas.
+- 
 ### Possui quatro níveis de abstração 
  
 - **Negócio**  - Analista de negócio - Descreve entidade do domínio **do negócio** e suas inter-relações
   **Independente de Sistema**  
  
 - **Sistema**  - Analista de Sistema - Descreve entidade do domínio **do sistema** e suas inter-relações
-  **Independente de Paradigma e tecnologia**
+  **Independente de Paradigma e tecnologia  **
  
 - **Lógico**  - Projetista - Descreve entidade  do domínio **do sistema** e suas inter-relações 
   **Preso ao Paradigma e tecnologia (Relacional, OO) - Independente de tecnologia**  
