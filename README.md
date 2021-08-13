@@ -1,5 +1,5 @@
 # analise-sistemas
-Projeto para Anotações sobre analise de sistemas focado na Modelagem de dominio e Modelagem conceitual  
+Projeto para Anotações sobre o curso do professor Nélio Alves na Udemy, em análise de sistemas focado na Modelagem de Dados UML (Análise&Projeto Orientado a Objetos) 
 
 # Modelagem de dominio e Modelagem conceitual
 **Domínio:** É a área de negócio observada  
